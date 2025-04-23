@@ -1,0 +1,5 @@
+{
+  "app_version": 230425,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog:</font></b></p><ol><li>Add App version Checker</li><li>Fix apk stuck on launch on some android</li><li>Better memory management</li><li>Improve apk launch speed (now only 1 second to start on high end cpu)</li></ol>"
+}
