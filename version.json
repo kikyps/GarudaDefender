@@ -1,0 +1,5 @@
+{
+  "app_version": 250510140,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v1.4.0</font></b></p><ol><li>SSL Pinning enhancement & added pinning type option like (Public key or Certificate Fingerprint) and support (Leaf & Intermediate Certified)</li><li>Improved string encryption now supports encrypting static string fields</li><li>Fixed crash due to app checker update code</li><li>Improves application launch speed and stability</li></ol>"
+}
