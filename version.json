@@ -1,0 +1,5 @@
+{
+  "app_version": 250512150,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v1.5.0</font></b></p><ol><li>Fix SSL Pinning unreachable host causes SSL pinning Certificate verification failure</li><li>Fix invalid memory area and cause crash in xiaomi device due to OS Optimization</li><li>Improved root detection and added 2 more detection points</li></ol>"
+}
