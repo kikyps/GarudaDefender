@@ -1,0 +1,5 @@
+{
+  "app_version": 250805200,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v2.0.0</font></b></p><ol><li>Increase launch speed & reduce memory usage</li><li>Increase protection & hardening level</li></ol>"
+}
