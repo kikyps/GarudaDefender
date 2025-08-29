@@ -1,0 +1,5 @@
+{
+  "app_version": 250829210,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v2.1.0</font></b></p><ol><li>Added 10+ more detection points</li><li>Increase app launch speed</li><li>Reduces memory and CPU usage by up to 30% - 40% from previous versions</li><li>Improved Anti Hook code</li><li>Improved code algorithms for excellent efficiency</li></ol>"
+}
