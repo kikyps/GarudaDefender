@@ -1,0 +1,5 @@
+{
+  "app_version": 250909230,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v2.3.0</font></b></p><ol><li>Added more root detection points</li><li>Increase app launch speed (Extremely fast)</li><li>Minor fix</li></ol>"
+}
