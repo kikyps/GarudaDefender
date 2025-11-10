@@ -1,0 +1,5 @@
+{
+  "app_version": 251110270,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v2.7.0</font></b></p><ol><li>Explaining what root detection Hide & Seek actually does</li><li>Fix stuck or blank screen on some devices</li></ol>"
+}
