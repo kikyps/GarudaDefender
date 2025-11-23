@@ -1,0 +1,5 @@
+{
+  "app_version": 251122280,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v2.8.0</font></b></p><ol><li>Fix random crash</li><li>Redesigning the toast view</li><li>Improve Emulator detection fix false positive on some device</li><li>Optimized code to reduce CPU & Optimized code to reduce CPU and Memory usage resulting in faster app launches</li><li>Redesigning the toast view</li><li>Improved architectural design to expand compatibility across all Android versions such as brands, models, and cross-architecture CPUs, no more crash, stuck, blank screen issues, and has been rigorously tested, except for modified OSs that no longer follow the flow and general rules of Android OS, which can cause problems such as emulators that have customized/tweeked many native bridges in our research.</li></ol>"
+}
