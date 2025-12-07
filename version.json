@@ -1,0 +1,5 @@
+{
+  "app_version": 251207290,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v2.9.0</font></b></p><ol><li>Added new root detection points.</li><li>Improved some Root detection logic</li><li>Applied extensive code obfuscation. (This causes the binary size to be 2x larger, and increases the memory load)</li><li>Added & Enhanced Anti-Tamper and Anti-Hook mechanisms.</li></ol>"
+}
