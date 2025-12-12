@@ -1,0 +1,5 @@
+{
+  "app_version": 251212295,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v2.9.5</font></b></p><ol><li>Fix crash.</li><li>Fixed a bug that made the code unstable, the fix includes much better stability</li><li>Removes massive obfuscation implementation which reduces responsiveness and increases memory usage.</li></ol>"
+}
