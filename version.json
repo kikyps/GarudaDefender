@@ -1,0 +1,5 @@
+{
+  "app_version": 260104300,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v3.0.0</font></b></p><ol><li>Added new root detection points</li><li>Enhanced string encryption Anti-Emulation (Runtime Trust Gate)</li></ol>"
+}
