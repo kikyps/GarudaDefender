@@ -1,0 +1,5 @@
+{
+  "app_version": 260109320,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v3.2.0</font></b></p><ol><li>Added more root detection points</li><li>The improved code is much more efficient and responsive, and very stable in stress tests that have been carried out, thus reducing CPU and RAM usage much lower than before by implementing good task and memory management.</li><li>Fix false positive emulator detection on some device</li><li>Increase apk launch speed than before</li><li>Fixed potential crash on 32bit architectures like armeabi-v7a and x86</li></ol>"
+}
