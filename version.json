@@ -1,0 +1,5 @@
+{
+  "app_version": 260121330,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v3.3.0</font></b></p><ol><li>Added more root detection points</li><li>UI Redesigned.</li><li>APK name changed to (Garuda Defender)</li><li>Added Anti-Instrumentation</li><li>Added Memory Protection</li><li>Enhanced string encryption with Anti-Instrumentation, Memory protection & Anti-Emulation</li><li>No longer using license files.</li><li>Refactor detection alert to dialog message.</li></ol>"
+}
