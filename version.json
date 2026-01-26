@@ -1,0 +1,5 @@
+{
+  "app_version": 260127350,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v3.5.0</font></b></p><ol><li>Added CPU Register Obfuscation</li><li>Fixed crash when rooted text is clicked</li></ol>"
+}
