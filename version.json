@@ -1,0 +1,5 @@
+{
+  "app_version": 260129360,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v3.6.0</font></b></p><ol><li>Enhanced Memory Protection</li><li>Improved some Root detection logic code</li><li>Fix potentially ineffective logic and re-optimize code for stability, performance, and workload reduction.</li></ol>"
+}
