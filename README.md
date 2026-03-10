@@ -55,6 +55,7 @@ Android RASP project, Protect Mobile App from any vulnerabilities.
 
 ### Realtime Remote Control
 
+<span id="remote-control-demo"></span>
 <video src="img/democontrol.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
