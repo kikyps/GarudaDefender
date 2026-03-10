@@ -1,0 +1,5 @@
+{
+  "app_version": 260310380,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v3.8.0</font></b></p><ol><li>Add remote control to manage services in real time</li><li>Improve the speed of root detection code</li><li>Anti-Hook/Instrumentation has been improved</li><li>Fixed a bug that caused a crash</li><li>Time format using localtime</li><li>Remove armeabi-v7a to make apk size smaller</li><li>Optimize most of the code for efficiency and processing speed</li></ol>"
+}
