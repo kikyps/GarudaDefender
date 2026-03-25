@@ -1,0 +1,5 @@
+{
+  "app_version": 260326410,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v4.1.0</font></b></p><ol><li>Added 3 more root detection points</li><li>Fixed cases on some Android devices, where the app cannot be opened/crashes/stuck/etc.</li></ol>"
+}
