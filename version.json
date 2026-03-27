@@ -1,0 +1,5 @@
+{
+  "app_version": 260327420,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v4.2.0</font></b></p><ol><li>Added 3 more root detection points</li><li>Optimize the entire logic of the root detection code, which causes root detection to not work accurately because of the very large number of detection points and requires much better structuring and efficiency and increases the detection speed by up to 80% better than before.</li><li>Much better memory management optimization, now memory usage is much less than before</li><li>Fixed and improved support for several devices that previously experienced crashes.</li><li>Improve anti instrumentation.</li></ol>"
+}
