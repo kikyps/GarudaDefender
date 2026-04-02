@@ -1,0 +1,5 @@
+{
+  "app_version": 260403430,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v4.3.0</font></b></p><ol><li>Added more root detection points</li><li>Enhanced Anti-Intrumentation</li><li>Enhanced Anti-Debuging</li><li>Enhanced Anti-Memory Patch</li><li>Optimize root detection code</li><li>Fixed crash on some devices</li><li>Replace the root detected indicator to a more suitable information.</li></ol>"
+}
