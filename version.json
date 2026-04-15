@@ -1,0 +1,5 @@
+{
+  "app_version": 260415440,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v4.4.0</font></b></p><ol><li>Added more root detection points</li><li>Enhanced Anti-Hook</li><li>Enhanced Network Protection (MITM)</li></ol>"
+}
