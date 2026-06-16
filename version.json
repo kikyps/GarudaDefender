@@ -1,0 +1,5 @@
+{
+  "app_version": 260616460,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v4.6.0</font></b></p><ol><li>Fixed crash on some device</li><li>New callsite encryption (Breaking xref flow in java/dex layer)</li><li>Enahnced Anti-Debugging</li><li>Enahnced Anti-Instrumentation</li><li>Enhanced Anti-Emulator</li><li>Added 3 new root detection point</li></ol>"
+}
