@@ -1,0 +1,5 @@
+{
+  "app_version": 260703470,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v4.7.0</font></b></p><ol><li>Add VPN and TOR detection (Not active on demo app)</li><li>Enhanced Anti-hook</li><li>Enhanced Anti-Instrumentation</li><li>Added more root detection point</li></ol>"
+}
