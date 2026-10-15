@@ -1,0 +1,6 @@
+
+{
+  "app_version": 261015501,
+  "force_update": true,
+  "update_message": "<p><b><font color=\"#FFFF00\">Changelog: v5.0.1</font></b></p><ol><li>Added new root detection points (Zygisk, LSPosed, SusFS, jailbreak, and PackageManager spoofing detection)</li><li>Fixed a bug that caused crashes</li><li>Enhanced Anti-Hook (Inline Hook and PLT/GOT Hook)</li><li>Enhanced Anti-Memory Patch</li><li>Enhanced Anti-AutoClicker (not yet activated)</li><li>Enhanced Screen Protection (not yet activated)</li><li>Enhanced Anti-Instrumentation</li><li>Enhanced Anti-Tamper</li><li>Enhanced LSPosed detection against the \"Invalidate Inline Hooks\" feature</li><li>Enhanced Network Protection (SSL Pinning)</li><li>Over the past weekend, we extensively researched and rewrote our root detection code to improve performance, reduce CPU and memory usage, and maximize detection speed. During this process, we discovered the new detection points mentioned above. This was the most time-consuming part of development and contributed to the nearly one-month delay in releasing this update.</li></ol>"
+}
